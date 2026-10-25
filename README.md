@@ -1,2 +1,2 @@
-# Hoborton-shell
+# holberton-shell
 Shell in C
